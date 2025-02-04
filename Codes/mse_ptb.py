@@ -1,3 +1,4 @@
+#Code for calculating the Multiscale entropy, Permutation Entropy and L-Z Complexity for all files in the PTB-XL dataset 
 import wfdb
 import pandas as pd
 import numpy as np
